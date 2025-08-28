@@ -16,6 +16,12 @@ The goal of this project was to clean real-world survey data, handle categorical
 
 ---
 
+## Project Tasks
+
+<img width="886" height="460" alt="Screenshot 2025-08-28 122340" src="https://github.com/user-attachments/assets/e0ad0c93-0089-49ac-9028-4b93265397a1" />
+
+
+
 ## ⚙️ Tools & Libraries
 **Programming Language:** Python (Jupyter Notebook)  
 
