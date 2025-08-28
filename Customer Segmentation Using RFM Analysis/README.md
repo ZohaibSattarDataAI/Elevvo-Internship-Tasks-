@@ -18,6 +18,12 @@ The goal of this project was to analyze customer behavior and suggest marketing 
 
 ---
 
+## Project Tasks
+
+<img width="893" height="461" alt="Screenshot 2025-08-28 122507" src="https://github.com/user-attachments/assets/e2f6d7ec-aa66-4c0c-9eab-e1bc642d4cde" />
+
+
+
 ## ⚙️ Tools & Libraries  
 - **Programming Language**: Python (Jupyter Notebook)  
 - **Libraries**:  
