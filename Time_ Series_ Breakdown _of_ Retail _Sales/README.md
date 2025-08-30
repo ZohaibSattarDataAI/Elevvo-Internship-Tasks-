@@ -12,9 +12,9 @@ The main goal of this project was to explore sales trends, moving averages, seas
 
 ## Project Tasks
 
+<img width="891" height="491" alt="Screenshot 2025-08-30 091719" src="https://github.com/user-attachments/assets/f3462872-64cf-4df4-b44d-59fefa400fb2" />
 
 
-<img width="649" height="490" alt="Screenshot 2025-08-30 094836" src="https://github.com/user-attachments/assets/c5b9dc64-2403-4064-b5fc-39fad9537829" />
 
 
 🛠️ **Approach:**  
